@@ -10,11 +10,12 @@ Visual Studio code, Cypress, JavaScript, Mocha framework, Node.js, npm
 3. Clone the Automation project : https://github.com/vajiraharendra/Mindler.git
 4. Open the project with Visual Studio Code to code review
 5. Test cases are available on : MIDLER -> Cypress -> Integration -> TestCases
-    a.  Test cases ara available on "HomaPageTests"
-    b.  Page Objects ara available on Integration -> PageObjects -> HomePage
+a.      Test cases ara available on "HomaPageTests"
+b.      Page Objects ara available on Integration -> PageObjects -> HomePage
+
 6. To run the Test cases
-    a.  Open a terminal and go to the Project folder
-    b.  run : npm run test
-    c.  Cypress will be opened
-    d.  Click on the "omaPageTests.js"
-    e.  7 test cases will be executed and all will be passed
+a.      Open a terminal and go to the Project folder
+b.      run : npm run test
+c.      Cypress will be opened
+d.      Click on the "omaPageTests.js"
+e       Seven test cases will be executed and all will be passed
